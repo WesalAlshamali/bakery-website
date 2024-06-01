@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"CupCake",
+        "price": 20,
+        "image": "images/cupcake.png"
+    },
+    {
+        "id": 2,
+        "name":"Bread",
+        "price": 25,
+        "image": "images/hjhj1.png"
+    },
+    {
+        "id": 3,
+        "name":"Chocolate Cake",
+        "price": 29,
+        "image": "images/chocolate cake.png"
+    },
+    {
+        "id": 4,
+        "name":"Chocolate Cookies",
+        "price": 20,
+        "image": "images/lkl.png"
+    },
+    {
+        "id": 5,
+        "name":"CupCake",
+        "price": 20,
+        "image": "images/cupcake.png"
+    },
+    {
+        "id": 6,
+        "name":"Chocolate Cookies",
+        "price": 20,
+        "image": "images/cookies.png"
+    },
+    {
+        "id": 7,
+        "name":"Chocolate Cake",
+        "price": 29,
+        "image": "images/chocolate cake.png"
+    },
+    {
+        "id": 8,
+        "name":"CupCake",
+        "price": 200,
+        "image": "images/cupcake.png"
+    }
+
+]
